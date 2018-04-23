@@ -29,3 +29,14 @@ var MultiplicationTable = function() {
       generate5: generate5
     };
   };
+  var MultiplicationTable = function() {
+    'use strict';
+  
+    function generate5() {
+  
+    }
+  
+    return {
+      generate5: generate5
+    };
+  };
