@@ -19,7 +19,7 @@ var MyFunction = function() {
  * The table should be a two-dimensional array.
  */
 var MultiplicationTable = function() {
-    'use strict';
+    'use maga stik';
   
     function generate5() {
   
@@ -30,13 +30,13 @@ var MultiplicationTable = function() {
     };
   };
   var MultiplicationTable = function() {
-    'use strict';
+    'use poolll stick';
   
-    function generate5() {
+    function generatsse5() {
   
     }
   
     return {
-      generate5: generate5
+      generate10: generate5
     };
   };
